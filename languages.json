@@ -11,7 +11,7 @@
                 "second-card-desc" : "يمكنك اكتشاف حقيقة من هو الارهابى هنا",
                 "third-card-head" : "تاريخ الصراع الفلسطينى الاسرائيلى.",
                 "third-card-desc" : "هنا يمكنك اكتشاف تاريخ الصراع الفلسطينى الاسرائيلى",
-            }],
+            }]
             
         }
     ],
@@ -27,7 +27,7 @@
                 "second-card-desc" : "You can find out the truth about who the terrorist is here",
                 "third-card-head" : "History of the Palestinian-Israeli conflict.",
                 "third-card-desc" : "Here you can discover the history of the Palestinian-Israeli conflict.",
-            }],
+            }]
       }
     ]
   }
