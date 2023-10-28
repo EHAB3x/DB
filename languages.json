@@ -1,0 +1,23 @@
+{
+    "arabic": [
+        {
+            "id": 1,
+            "title": "Aconitum",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "Bouquets And Boxes",
+            "image": "https://i.pinimg.com/236x/2b/d1/07/2bd1072ae625cbcd47c79f5668e29256.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+        }
+    ],
+    "english": [
+      {
+        "id": 1,
+        "title": "Bouquets And Boxes",
+        "image": "https://clipart-library.com/image_gallery2/Easter-Flower-Free-PNG-Image.png"
+      }
+    ]
+  }
