@@ -1,23 +1,33 @@
 {
     "arabic": [
         {
-            "id": 1,
-            "title": "Aconitum",
-            "price": 109.95,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-            "category": "Bouquets And Boxes",
-            "image": "https://i.pinimg.com/236x/2b/d1/07/2bd1072ae625cbcd47c79f5668e29256.jpg",
-            "rating": {
-            "rate": 3.9,
-            "count": 120
-            }
+            "landing": [{
+                "title" : "مرحبا بك فى موقع TRUTH",
+                "title-desc" : "هنا يمكنك اكتشاف الحقيقة الكاملة عن حرب فلسطين و اسرائيل",
+                "button" : "عرض مقالات اكتر",
+                "first-card-head" : "من هو المحتل؟",
+                "first-card-desc" : "يمكنك اكتشاف حقيقة من هو المحتل الرئيسى هنا",
+                "second-card-head" : "من هو الارهابى؟",
+                "second-card-desc" : "يمكنك اكتشاف حقيقة من هو الارهابى هنا",
+                "third-card-head" : "تاريخ الصراع الفلسطينى الاسرائيلى.",
+                "third-card-desc" : "هنا يمكنك اكتشاف تاريخ الصراع الفلسطينى الاسرائيلى",
+            }],
+            
         }
     ],
     "english": [
       {
-        "id": 1,
-        "title": "Bouquets And Boxes",
-        "image": "https://clipart-library.com/image_gallery2/Easter-Flower-Free-PNG-Image.png"
+        "landing": [{
+                "title" : "Welcome To TRUTH Website",
+                "title-desc" : "Here you can find the all truth about palestine & israel war",
+                "button" : "Show More Articles",
+                "first-card-head" : "Who is the occupier?",
+                "first-card-desc" : "You can find out the truth about who the main occupier is here",
+                "second-card-head" : "Who is the terrorist?",
+                "second-card-desc" : "You can find out the truth about who the terrorist is here",
+                "third-card-head" : "History of the Palestinian-Israeli conflict.",
+                "third-card-desc" : "Here you can discover the history of the Palestinian-Israeli conflict.",
+            }],
       }
     ]
   }
